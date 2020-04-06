@@ -1,0 +1,19 @@
+html {
+    background-color: mediumslateblue;
+}
+
+.news{
+    border: 10px solid black;
+}
+ .square{
+     width: 300px;
+     height: 300px;
+ }
+ #word1{
+     position: absolute;
+    background-color: darkgoldenrod;
+}
+ #word2{
+    width: 150px;
+    background-color: chocolate;
+}
